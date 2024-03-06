@@ -72,3 +72,4 @@
 
 ![настройка аларма](https://github.com/duskdemon/sys-29-smon-01/blob/main/img/hw-01-vmyc-alcf.png)
 ![оповещение](https://github.com/duskdemon/sys-29-smon-01/blob/main/img/hw-01-vmyc-alrm.png)
+
